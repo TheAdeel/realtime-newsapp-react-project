@@ -1,7 +1,7 @@
 # Realtime Dynamic News App in ReactJS using API
 
 ## How to use it?
-. Download all the source cod <br />
+. Download all the source code <br />
 . Go To <a href="https://newsapi.org/">newsapi.org</a>, create an account and generate your AP <br />
 . Come to your react projec <br />
 . In main directory create a file (<strong>.env.local</strong> <br />
