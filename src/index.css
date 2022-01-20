@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+input,input:focus,
+textarea,textarea:focus,
+.btn, button, a{
+  box-shadow: none !important;
+}

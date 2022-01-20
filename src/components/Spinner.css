@@ -1,0 +1,22 @@
+
+.spinner h3{
+    position: relative;
+    left: 50%;
+    bottom: 0;
+    display: inline-block;
+    transform: translateX(-50%);
+    transform-origin: center center;
+    text-align: center;
+    color: rgb(4, 9, 51);
+    font-size: 2.3rem;
+    font-weight: 600;
+    overflow: hidden;
+    z-index: 300;
+    user-select: none;
+    animation: rotateSpinner 1s forwards infinite;
+    transition: .5s;
+}
+@keyframes rotateSpinner {
+    0%{transform: rotate(0deg);}
+    100%{transform: rotate(360deg);}
+}

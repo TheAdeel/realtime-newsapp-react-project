@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 751,
+  "articles": [
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "China's digital yuan wallets swell but usage lags - Reuters",
+      "description": "China's digital currency has debuted on app stores with fanfare, with online wallets for the electronic yuan seeing mass adoption in the two weeks since a public launch, yet its actual use in transactions has been far less impressive.",
+      "url": "https://www.reuters.com/world/china/chinas-digital-yuan-wallets-swell-usage-lags-2022-01-17/",
+      "urlToImage": "https://www.reuters.com/resizer/R_07G17H3b9qy_ArGePFepPKCcY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B6GIFN7MKNOZJM72ENCYCMAICI.jpg",
+      "publishedAt": "2022-01-17T09:44:00Z",
+      "content": "SHANGHAI, Jan 17 (Reuters) - China's digital currency has debuted on app stores with fanfare, with online wallets for the electronic yuan seeing mass adoption in the two weeks since a public launch, … [+3338 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hipertextual"
+      },
+      "author": "Rubén Chicharro",
+      "title": "Un bug en Safari revela tu historial de navegación reciente e información personal",
+      "description": "IndexedDB, una API compatible con los principales navegadores y que funciona como base de datos para guardar una gran cantidad de información de páginas webs, tiene un bug en Safari que supone un importante problema de privacidad. Este error, en concreto, per…",
+      "url": "https://hipertextual.com/2022/01/un-bug-en-safari-revela-tu-historial-de-navegacion-reciente-e-informacion-personal",
+      "urlToImage": "https://hipertextual.com/wp-content/uploads/2021/07/safari-ios-15-01.jpg",
+      "publishedAt": "2022-01-17T10:55:51Z",
+      "content": "IndexedDB, una API compatible con los principales navegadores y que funciona como base de datos para guardar una gran cantidad de información de páginas webs, tiene un bug en Safari que supone un imp… [+2416 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hipertextual"
+      },
+      "author": "José María López",
+      "title": "Cómo descargar el pasaporte COVID y llevarlo en tu móvil",
+      "description": "Distancia social, mascarillas y vacuna. Son los tres ejes para vencer al coronavirus. Y como toda ayuda es poca, el reciente aumento de contagios por COVID-19 ha obligado a tomar medidas más drásticas. Algunos países han optado por volver al encierro. Otros p…",
+      "url": "https://hipertextual.com/2022/01/como-descargar-el-pasaporte-covid-llevarlo-en-tu-movil-android-iphone",
+      "urlToImage": "https://hipertextual.com/wp-content/uploads/2021/11/COVID-Passport.jpg",
+      "publishedAt": "2022-01-17T09:04:17Z",
+      "content": "Distancia social, mascarillas y vacuna. Son los tres ejes para vencer al coronavirus. Y como toda ayuda es poca, el reciente aumento de contagios por COVID-19 ha obligado a tomar medidas más drástica… [+7965 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Javier Pastor",
+      "title": "Las gafas de realidad aumentada y virtual de Apple costarán más de 2.000 dólares y tendrán un chip M1 Pro según Bloomberg",
+      "description": "El desarrollo de las gafas de realidad mixta de Apple continúa. Hay rumores de que se están topando con algunos problemas de sobrecalentamiento y que eso podría retrasar su lanzamiento hasta 2023, pero aún así tenemos nuevos datos que apuntan a detalles impor…",
+      "url": "https://www.xataka.com/realidad-virtual-aumentada/gafas-realidad-aumentada-virtual-apple-costaran-2-000-dolares-tendran-chip-m1-pro-bloomberg",
+      "urlToImage": "https://i.blogs.es/59a21d/captura-de-pantalla-2022-01-17-a-las-10.34.21/840_560.jpeg",
+      "publishedAt": "2022-01-17T10:30:45Z",
+      "content": "El desarrollo de las gafas de realidad mixta de Apple continúa. Hay rumores de que se están topando con algunos problemas de sobrecalentamiento y que eso podría retrasar su lanzamiento hasta 2023, pe… [+1895 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Trends"
+      },
+      "author": "Trevor Mogg",
+      "title": "Get the COVID-19 booster shot, Apple reportedly tells staff",
+      "description": "Apple has reportedly told its store and corporate employees to get the COVID-19 booster shot when eligible or face frequent tests for the virus.",
+      "url": "https://www.digitaltrends.com/news/apple-tells-staff-to-get-covid-booster/",
+      "urlToImage": "https://icdn.digitaltrends.com/image/digitaltrends/apple-to-release-quarterly-earnings-after-markets-close.jpg",
+      "publishedAt": "2022-01-17T03:45:01Z",
+      "content": "Apple has reportedly told its store and corporate employees to get the COVID-19 booster shot or face frequent tests for the virus.\r\nDue to waning efficacy of the primary series of COVID-19 vaccines a… [+2076 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Trends"
+      },
+      "author": "Trevor Mogg",
+      "title": "How Wordle and Wordle! teamed up for charity",
+      "description": "One is a massively popular word game. The other has the same name and landed on the app store five years ago. Here's how they teamed up for charity.",
+      "url": "https://www.digitaltrends.com/news/how-wordle-and-wordle-teamed-up-for-charity/",
+      "urlToImage": "https://icdn.digitaltrends.com/image/digitaltrends/wordle-screenshot.jpg",
+      "publishedAt": "2022-01-17T01:50:35Z",
+      "content": "Following the sudden explosion of love for Wordle in recent weeks, the browser-only availability of Josh Wardles free word game led to get-rich-quick developers coding similar efforts and sticking th… [+2140 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kartsci.org"
+      },
+      "author": null,
+      "title": "The Graphical User Interface History",
+      "description": "A graphical user interface history from D.Engelbart's pioneering oNlinedemo to XEROX Parc's ALTO Neptune, to MAC OSX , Linux and and Windows systems.",
+      "url": "https://kartsci.org/kocomu/computer-history/graphical-user-interface-history/",
+      "urlToImage": "https://kartsci.org/wp-content/uploads/2018/08/comand-line.jpg",
+      "publishedAt": "2022-01-17T02:58:34Z",
+      "content": "The graphical user interface (GUI) is the now very familiar user interface that allows you to interact with computers or smartphones through graphical icons using a mouse or touch screen. Years ago y… [+1883 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Ben Schwan",
+      "title": "Niederlande: Erstmals externe Bezahldienste in Apples App Store erlaubt",
+      "description": "Nach Südkorea genehmigt der iPhone-Konzern auch in unserem Nachbarland In-App-Zahlungen durch fremde Dienstleister – allerdings nur in bestimmten Programmen.",
+      "url": "https://www.heise.de/news/Niederlande-Erstmals-externe-Bezahldienste-in-Apples-App-Store-erlaubt-6327449.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/2/5/6/6/2/2/shutterstock_1822113233-4b0cb1e4e3d668e6.jpg",
+      "publishedAt": "2022-01-17T09:12:00Z",
+      "content": "Die Einschläge für Apples Bezahlmonopol für App-Store-Anwendungen kommen näher: Nachdem Apple auf Anordnung der Regierung einen Plan vorgelegt hat, wie in Südkorea künftig auch alternative Zahlungsdi… [+2885 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "Apple once more honors Dr. Martin Luther King, Jr. with homepage redesign",
+      "description": "As it now traditionally does every year, Apple has replaced its homepage to honor civil rights leader Dr. Martin Luther King, Jr.Apple's homepage on January 17, 2022As it did last year, in 2020, and for several years before, Apple's homepage has been changed …",
+      "url": "https://appleinsider.com/articles/22/01/17/apple-once-more-honors-dr-martin-luther-king-jr-with-homepage-redesign",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/46540-90715-000-lead-MLK-xl.jpg",
+      "publishedAt": "2022-01-17T10:49:50Z",
+      "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+719 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.jp"
+      },
+      "author": "ガリレオ",
+      "title": "「Apple Music」の480円プラン、そのメリットとデメリットは？",
+      "description": "Image:nikkimeel/Shutterstockライフハッカー［日本版］2021年12月26日掲載の記事より転載手ごろな料金で音楽ストリーミングサービスを広告なしで楽しめる「AppleMusicVoiceプラン」。その月額料金は、「学生プラン」と同じ480円です（「個人プラン」のほぼ半額）。けれども、ほかのプランにあるさまざまな機能は、一部取り除かれています。再生ボタンなどのタッチスクリー",
+      "url": "https://www.lifehacker.jp/article/is-the-apple-music-voice-plan-worth-the-trade/",
+      "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/01/14/shutterstock_1686799225-w960.jpg",
+      "publishedAt": "2022-01-17T08:00:00Z",
+      "content": "20211226\r\nApple Music Voice\r\n480\r\nVoiceSiri\r\nVoice\r\nVoice\r\nApple MusicSiriVoice\r\nHomePodHomePod mini\r\nApple MusicHomePod\r\nSiri\r\nSiri\r\nSiri\r\nSiri\r\nVoiceAndroidPS5TVApple\r\nVoiceApple\r\nApple Music\r\nAppl… [+134 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.jp"
+      },
+      "author": "小暮ひさのり",
+      "title": "嘘…だろ？ AppleのVR/ARヘッドセット、2023年まで延期の可能性",
+      "description": "Apple（アップル）が開発していると噂されるVR/ARヘッドセット。Bloombergによると、カメラやソフトウェア、そして排熱系の課題が解決できておらず、発売が2023年にずれこむ可能性があるそうな。Oh…。",
+      "url": "https://www.gizmodo.jp/2022/01/apple-vr-ar-headset-2023.html",
+      "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/01/17/apple-vr-headset-w960.jpg",
+      "publishedAt": "2022-01-17T08:30:00Z",
+      "content": "Copyright © mediagene Inc. All Rights Reserved."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yanko Design"
+      },
+      "author": "Gaurav Sood",
+      "title": "This Apple Car concept is a 360-degree maneuverable, self-driving, two-seater for the future",
+      "description": "This Apple Car concept is a 360-degree maneuverable, self-driving, two-seater for the futureWhen you think about it, driving solo or even with one other passenger in a five-seater car is a wasteful thing! Many may beg to...",
+      "url": "https://www.yankodesign.com/2022/01/16/this-apple-car-concept-is-a-360-degree-maneuverable-self-driving-two-seater-for-the-future/",
+      "urlToImage": "https://www.yankodesign.com/images/design_news/2022/01/this-360-degree-maneuverable-apple-car-concept-is-self-driving-two-seater-for-the-future/Apple-Autonomous-car.jpg",
+      "publishedAt": "2022-01-17T00:30:43Z",
+      "content": "When you think about it, driving solo or even with one other passenger in a five-seater car is a wasteful thing! Many may beg to differ, but I think the purpose is defied when a vehicle capable of fe… [+1523 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Kiyoshi Tane",
+      "title": "アップル製VRヘッドセット、23万円以上？　8KパネルやM1 Pro同等チップ搭載の噂",
+      "description": "アップルが開発中のAR/VRヘッドセットは、価格が2000ドル以上になる可能性があるなどの追加情報が届けられています。",
+      "url": "https://japanese.engadget.com/apple-mrheadset-m1pro-061041267.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/096ac110-7746-11ec-bffe-e591fe3d60f3",
+      "publishedAt": "2022-01-17T06:10:41Z",
+      "content": "AR/VR2023200023\r\nBloombergMark GurmanPower On\r\nAR/VR2000\r\nMacBook ProM1 Pro28K7\r\nM1M1 ProCPUM1GPU8M1 Pro1416\r\nAR/VRGurmanApp Store\r\n2VR3FaceTimeVRZoom\r\nGurmanAR/VR\r\nApple Vision:\r\nApple Reality:Gurma… [+161 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Ittousai",
+      "title": "ベセスダ『Starfield』スマートウォッチが流出。コレクターズ・エディション特典？",
+      "description": "ベセスダのSFオープンワールドRPG『Starfield』は、ゲームに登場する装備を実際に使えるスマートウォッチとしてリリースする計画があるようです。",
+      "url": "https://japanese.engadget.com/starfield-chronomark-smartwatch-leaked-085417503.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/5d5cff90-7769-11ec-9f3b-5199ae5a79a8",
+      "publishedAt": "2022-01-17T08:54:17Z",
+      "content": "SFRPGStarfield\r\n Manuals+ LPV6 Chronomark Smartwatch\r\nBluetooth\r\nStarfield()The Elder ScrollsFalloutBethesdaRPGIP25\r\n2021690\r\nSF\r\n Reddit SquiddyVonn LPV6 Chronomark Smartwatch The Wand Company Fallo… [+125 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "Anh Phan",
+      "title": "L’équipe AirPods chez Apple souhaite de l’émotion",
+      "description": "En même temps que la sortie des AirPods 3, on a pu échanger avec Gary Geaves, VP of Acoustics et Eric Treski, Product Marketing Lead, chez Apple\nL’équipe AirPods chez Apple souhaite de l’émotion",
+      "url": "https://www.journaldugeek.com/?p=50316882",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2021/11/apple-airpods-3-1.jpg",
+      "publishedAt": "2022-01-17T11:15:38Z",
+      "content": "En même temps que la sortie des AirPods 3, on a pu échanger avec Gary Geaves, VP of Acoustics et Eric Treski, Product Marketing Lead, chez AppleLors de la sortie des AirPods 3 dont notre test se trou… [+3652 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "Amandine Jonniaux",
+      "title": "Apple va devoir accepter les paiements alternatifs sur les apps de rencontres",
+      "description": "L'ouverture au monde (forcée) d'Apple continue en Europe. La Pomme va désormais devoir accepter les moyens de paiements alternatifs sur les applications de rencontres situées aux Pays-Bas. \nApple va devoir accepter les paiements alternatifs sur les apps de re…",
+      "url": "https://www.journaldugeek.com/2022/01/17/apple-va-devoir-accepter-les-paiements-alternatifs-sur-les-apps-de-rencontres/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2020/05/tinder.jpg",
+      "publishedAt": "2022-01-17T09:30:37Z",
+      "content": "L'ouverture au monde (forcée) d'Apple continue en Europe. La Pomme va désormais devoir accepter les moyens de paiements alternatifs sur les applications de rencontres situées aux Pays-Bas.Malgré ses … [+2852 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "David Bernal Raspall",
+      "title": "Una imagen más clara de las Apple Glass: sobre 2.000 dólares y la potencia de un M1 Pro, según Gurman",
+      "description": "Si bien a finales de semana supimos que Apple retrasaría el lanzamiento de las Apple Glass debido a dificultades con el software, las cámaras y problemas de sobrecalentamiento, seguimos conociendo información sobre el dispositivo que está llamado a revolucion…",
+      "url": "https://www.applesfera.com/rumores/imagen-clara-apple-glass-2-000-dolares-potencia-m1-pro-gurman",
+      "urlToImage": "https://i.blogs.es/953e56/james-yarema-e-cdfbrnnfs-unsplash/840_560.jpeg",
+      "publishedAt": "2022-01-17T07:23:33Z",
+      "content": "Si bien a finales de semana supimos que Apple retrasaría el lanzamiento de las Apple Glass debido a dificultades con el software, las cámaras y problemas de sobrecalentamiento, seguimos conociendo in… [+3029 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Eduardo Archanco",
+      "title": "El HomePod mini tuvo prototipos con batería en los laboratorios de Apple, Gurman no cree que lo veamos jamás",
+      "description": "Mucho se ha hablado de lo que supondría un HomePod mini con batería. Ahora, Mark Gurman ha desvelado en su newsletter que Apple tuvo prototipos de un altavoz así. Sin embargo, no cree que veamos un HomePod mini con batería jamás.\n<!-- BREAK 1 -->\nUn HomePod m…",
+      "url": "https://www.applesfera.com/homepod/homepod-mini-tuvo-prototipos-bateria-laboratorios-apple-gurman-no-cree-que-veamos-jamas",
+      "urlToImage": "https://i.blogs.es/2e6239/1366_2000/840_560.jpeg",
+      "publishedAt": "2022-01-17T07:12:14Z",
+      "content": "Mucho se ha hablado de lo que supondría un HomePod mini con batería. Ahora, Mark Gurman ha desvelado en su newsletter que Apple tuvo prototipos de un altavoz así. Sin embargo, no cree que veamos un H… [+1302 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "David Bernal Raspall",
+      "title": "Apple prepara un iPad Air para esta primavera: A15, 5G, Center Stage y más, según MacOtakara",
+      "description": "Todo parece indicar que Apple está trabajando en el iPad Air de quinta generación. Una generación que se pondría a la par del iPad mini de sexta en cuanto a componentes internos y que, según los últimos rumores, deberíamos ver esta misma primavera. Un iPad de…",
+      "url": "https://www.applesfera.com/rumores/apple-prepara-ipad-air-para-esta-primavera-a15-5g-center-stage-macotakara",
+      "urlToImage": "https://i.blogs.es/bd67d5/daniel-romero-wvg03lwm86s-unsplash/840_560.jpeg",
+      "publishedAt": "2022-01-17T07:43:23Z",
+      "content": "Todo parece indicar que Apple está trabajando en el iPad Air de quinta generación. Una generación que se pondría a la par del iPad mini de sexta en cuanto a componentes internos y que, según los últi… [+1632 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "David Bernal Raspall",
+      "title": "Ahora sí, ahora no: ProMotion seguirá siendo exclusivo de los iPhones 14 Pro y Pro Max, según los rumores más recientes",
+      "description": "En los últimos meses, ha habido bastante tira y afloja sobre la llegada de ProMotion a toda la gama de los iPhone 14. Una novedad muy esperada que ya se rumoreó para los actuales iPhone 13 y que, según los rumores más recientes, seguirá siendo exclusivo de aq…",
+      "url": "https://www.applesfera.com/rumores/ahora-ahora-no-promotion-seguira-siendo-exclusivo-iphones-14-pro-pro-max-rumores-recientes",
+      "urlToImage": "https://i.blogs.es/113493/phuc-khang-mobile-fj4oenndzrm-unsplash/840_560.jpeg",
+      "publishedAt": "2022-01-17T08:20:09Z",
+      "content": "En los últimos meses, ha habido bastante tira y afloja sobre la llegada de ProMotion a toda la gama de los iPhone 14. Una novedad muy esperada que ya se rumoreó para los actuales iPhone 13 y que, seg… [+1790 chars]"
+    }
+  ]
+}
